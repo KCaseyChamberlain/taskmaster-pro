@@ -1,7 +1,7 @@
 # Taskmaster Pro
 
 ### Description
-This front-end web application is a planner that will dynamically show the user's to-do list and at what status of completion the tasks are at.
+This front-end web application is a planner that will dynamically create and show the user's to-do list and at what status of completion the tasks are at.
 
 ### License
 ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
